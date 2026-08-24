@@ -3,6 +3,7 @@
 <img width="1200" height="1125" alt="DJcgQl1XkAAaJyH" src="https://github.com/user-attachments/assets/e703ebd9-8a73-4609-b5bf-ed0280eee626" />
 
 I'm an engineering student interested in understanding how mechanical, electrical, and automated systems work together. I enjoy hands-on troubleshooting and turning engineering concepts into practical solutions. 
+
 SolidWorks • Creo • AutoCAD • Mechatronics • Automation • Troubleshooting • Mechanical Systems • Engineering Design
 
 
