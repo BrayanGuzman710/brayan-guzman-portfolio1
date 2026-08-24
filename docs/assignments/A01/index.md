@@ -1,5 +1,19 @@
 # A1 – Build Professional Portfolio
 
+Part 2 — Decide
+
+Homepage Identity
+
+My homepage is made so that a professor, employer, or another engineering student can quickly understand what my portfolio holds. It explains that the site documents my engineering work throughout the semester and that each assignment can be found using the navigation menu. The homepage also lets the reader know that my work will include my analysis, design decisions, calculations, and final results. This gives the reader an idea of what to expect from my portfolio and navigate through it.
+
+ Intentional Customization
+
+One change I made to the template was changing the color scheme. I wanted the different sections and navigation menu to stand out more from the rest of the page. The original colors did not separate the main parts of the site as much as I wanted. Changing the colors makes it easier for a reader to recognize headings, and important sections when moving through my portfolio.
+
+Documentation Standard
+
+For every assignment, I will show my important calculations, assumptions, design decisions, diagrams, and final results so that another engineering student can understand how I reached my solution without needing additional explanation.
+
 Task A — Portfolio Analysis
 
 Portfolio: Noah DiMenna — MEGR 2156 Design Portfolio
