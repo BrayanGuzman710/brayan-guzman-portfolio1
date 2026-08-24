@@ -19,6 +19,7 @@ Professional Tone.
 The website is organized in a way that would make sense to a professor, another engineering student, or an employer. The writing explains the purpose of the work instead of only showing pictures. I think the writing could be improved by using more specific engineering terms and numbers when explaining why a design works or does not work.
 
 Portfolio 2
+
 Portfolio: J. McAdam — Design Projects Portfolio
 
 Navigability. 
