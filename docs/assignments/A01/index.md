@@ -1,6 +1,5 @@
-# A1 – [Topic]
+# A1 – Build Professional Portfolio
 
-## Objective
 Task A — Portfolio Analysis
 
 Portfolio: Noah DiMenna — MEGR 2156 Design Portfolio
@@ -33,3 +32,69 @@ One thing that stood out to me was how the portfolio explains why certain design
 
 Professional Tone.
 The portfolio uses engineering terms, numbers, equations, and pictures to explain the work. This makes it useful for someone with an engineering background because they can see the technical reasoning behind the design.
+
+Task B — Product Analysis
+
+<img width="1152" height="768" alt="image" src="https://github.com/user-attachments/assets/1a7691e3-aa2e-41c0-bdb4-e9b347ce3a8e" />
+
+Product: Bottle Opener
+
+For my product, I chose a handheld metal bottle opener. I chose this because it is a simple mechanical product with one main component, but it still shows how force and leverage can make a task easier.
+
+a. Primary Function
+
+The main function of the bottle opener is to remove a metal bottle cap by using leverage. The opener allows a person to remove the cap using less force than it would take to pull the cap off directly.
+
+b. Governing Model
+
+The main principle used by the bottle opener is the lever principle. The equation I can use to describe it is:
+
+M = Fd
+
+(M) = moment
+(F) = force applied by the user
+(d) = distance from the pivot point to where the force is applied
+
+When I pull up on the handle, the opener rests against the top of the bottle cap while the other edge catches underneath the cap. The force on the handle creates a moment that lifts the cap off.
+
+One assumption I am making is that the metal opener is rigid and does not noticeably bend while I am using it.
+
+c. Component and Geometry
+Component 1 — Metal Bottle Opener
+
+
+The bottle opener is made from one flat piece of metal. It has a long handle and a shaped opening at one end.
+
+The opening is shaped so one part can catch underneath the edge of the bottle cap while another part rests against the top of the cap. The long handle gives the user more leverage. Since my hand is farther away from the pivot point, less force is needed to create enough moment to remove the cap.
+
+The flat metal design also keeps the opener simple and makes it small enough to carry on a keychain.
+
+d. Patent Research
+
+A patent that relates closely to this type of bottle opener is US2018083A, titled Bottle-cap remover. The inventor was James Andrew Murdock, and the patent was issued on October 22, 1935.
+
+The patent describes a bottle opener made from a thin, flat piece of metal. It also specifically describes this style as a key-ring type bottle-cap remover. Like my bottle opener, it uses one part of the opener against the top of the cap and another part underneath the edge of the cap to remove it using leverage.
+
+Patent Number: US2018083A
+Inventor: James Andrew Murdock
+Patent Title: Bottle-cap remover
+Patent Date: October 22, 1935
+
+Alternative Solutions
+
+Two other products that can perform the same function are:
+
+Wall-mounted bottle opener — This also uses leverage to remove the bottle cap, but the opener stays attached to a wall or another surface.
+Waiter's corkscrew with bottle opener — This combines a bottle opener with other tools, but the bottle-opening section still uses leverage to remove a metal cap.
+Design Decision
+
+One design decision that stands out to me is the long handle. The engineer could have made the opener much shorter, but that would make it harder to remove the cap.
+
+Using the equation
+
+M = Fd
+
+a longer handle increases the distance from the pivot point. This means I can create more moment without having to apply as much force.
+
+I think this was chosen because it makes the bottle opener easy to use while still keeping the product small and simple. The flat shape also makes it easy to carry on a keychain.
+
