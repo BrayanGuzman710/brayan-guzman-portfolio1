@@ -16,3 +16,5 @@ As I continue my education, I want to improve my ability to design mechanical sy
 What Does It Mean to Defend an Engineering Decision — and Do I Currently Know How to Do It?
 
 To me, defending an engineering decision means being able to explain why I made a certain choice and having evidence to support it. That evidence could include calculations, testing, and comparing different solutions. I think I understand the basic idea of defending an engineering decision, but I still have room to improve. Sometimes I know that a solution will work, but I need to get better at explaining exactly why it is the best choice and supporting that decision with engineering evidence. By the end of this semester, I want to be more confident in making engineering decisions and explaining my reasoning so that another engineer can understand my work.
+
+This assignment took me near 6.5 hours. 
