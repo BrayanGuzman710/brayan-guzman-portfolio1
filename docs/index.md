@@ -4,7 +4,7 @@
 
 I'm an engineering student interested in understanding how mechanical, electrical, and automated systems work together. I enjoy hands-on troubleshooting and turning engineering concepts into practical solutions. 
 
-SolidWorks • Creo • AutoCAD • Mechatronics • Automation • Troubleshooting • Mechanical Systems • Engineering Design
+SolidWorks • Creo • AutoCAD • Mechatronics • Automation • Troubleshooting • Mechanical Systems 
 
 
 
