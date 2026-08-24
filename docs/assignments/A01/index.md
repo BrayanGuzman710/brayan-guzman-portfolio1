@@ -20,6 +20,7 @@ The website is organized in a way that would make sense to a professor, another 
 
 Portfolio 2
 Portfolio: J. McAdam — Design Projects Portfolio
+
 Navigability. 
 J. McAdam's portfolio is also easy to navigate. The menu separates the homepage, About Me section, Portfolio Overview, and assignments A1 through A11. The A1 page has another menu that breaks the assignment into smaller sections. For example, I can go directly to the fuel pump analysis instead of scrolling through the entire page. Because of this setup, I think a visitor could find a specific assignment or section in less than 60 seconds.
 
