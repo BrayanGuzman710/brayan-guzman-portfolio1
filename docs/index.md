@@ -10,6 +10,7 @@ SolidWorks • Creo • AutoCAD • Mechatronics • Automation • Troubleshoot
 
 
 BRAYAN GUZMAN 
-828-291-0345 
-brayanguzman710@gmail.com 
+
+828-291-0345 | brayanguzman710@gmail.com
+
 Mechanical Engineering | Mechatronics Engineering | Problem Solving | Engineering Design
