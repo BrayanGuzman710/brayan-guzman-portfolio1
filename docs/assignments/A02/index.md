@@ -47,6 +47,11 @@ For my truss design, I decided to use a simple planar truss that could withstand
 <img width="4284" height="5712" alt="IMG_5212" src="https://github.com/user-attachments/assets/6de0b7e2-c1ec-45fd-9c45-3d943bd0a7ca" />
 <img width="5704" height="2936" alt="IMG_5213" src="https://github.com/user-attachments/assets/69fa2bc6-e7b6-477a-878e-3070f38289c4" />
 
+**Cross Sectional Area**
+
+After finding all my internal forces. I used the highest internal force to help me calculate the required cross-sectional area for my truss using the safety factor of 3.5 and the yield strength. I used the stress relationship to compare the working stress with the materials allowable yield stress to find the minimum cross-sectional area. My calculation was 422.7mm^2 and I decided to use a 23mm-by-23mm square selection with the area of 529mm^2. 
+
+<img width="4184" height="2875" alt="IMG_5214" src="https://github.com/user-attachments/assets/cb502f20-473f-49ee-9f66-6210b860c2b8" />
 
 
 
