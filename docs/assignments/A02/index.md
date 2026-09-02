@@ -45,6 +45,7 @@ For my truss design, I decided to use a simple planar truss that could withstand
 
 <img width="4284" height="5712" alt="IMG_5211" src="https://github.com/user-attachments/assets/0536118e-0dbd-49a8-a5ac-aa0f16aea9ad" />
 <img width="4284" height="5712" alt="IMG_5212" src="https://github.com/user-attachments/assets/6de0b7e2-c1ec-45fd-9c45-3d943bd0a7ca" />
+<img width="5704" height="2936" alt="IMG_5213" src="https://github.com/user-attachments/assets/69fa2bc6-e7b6-477a-878e-3070f38289c4" />
 
 
 
