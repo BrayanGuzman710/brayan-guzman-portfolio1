@@ -27,6 +27,8 @@ The following are the constraints given for the assignment:
 
 Design constraints are shown in Figure #1. (See Appendix for deeper explanation).
 
+
+
 The cross-sectional area of each element is to be identical.
 
 The pins are to be identical to each other and each element is to have the same cross-sectional geometry."
