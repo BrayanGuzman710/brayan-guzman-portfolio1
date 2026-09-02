@@ -65,4 +65,8 @@ I designed connecting pins to prevent the joints from falling using my largest s
 
 <img width="3129" height="4691" alt="IMG_5216" src="https://github.com/user-attachments/assets/46aa35eb-0c10-4a3d-9421-60087360520c" />
 
+**Use Solidworks to design the truss**
+
+
+
 
