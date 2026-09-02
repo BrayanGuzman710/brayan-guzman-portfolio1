@@ -37,8 +37,7 @@ The pins are to be identical to each other and each element is to have the same 
 
 **Design**
 
-<img width="2100" height="4032" alt="IMG_5202" src="https://github.com/user-attachments/assets/72818f1a-9ad6-4233-a502-689fa3463080" />
-
+<img width="4032" height="2100" alt="IMG_5202" src="https://github.com/user-attachments/assets/258b6f36-9914-422e-9da7-6a8e830cdb85" />
 <img width="5712" height="1858" alt="IMG_5203" src="https://github.com/user-attachments/assets/2b002992-1ff2-4e5a-b830-a3994c968f02" />
 
 
