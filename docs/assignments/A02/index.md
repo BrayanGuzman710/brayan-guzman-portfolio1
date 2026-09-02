@@ -41,7 +41,7 @@ The pins are to be identical to each other and each element is to have the same 
 <img width="5712" height="1858" alt="IMG_5203" src="https://github.com/user-attachments/assets/2b002992-1ff2-4e5a-b830-a3994c968f02" />
 <img width="5712" height="4284" alt="IMG_5210" src="https://github.com/user-attachments/assets/51604b77-c684-47d9-98a5-bba7a6ea2ae0" />
 
-For my truss design, I decided to use a simple planar truss that could withstand two 25kN loads downward at joints C and D. I still used the dimensions of a=0.4m and b=0.3m. I created the geometry of the truss using 7 members and calculated the members lengths horizontally and vertically. I drew my free body diagram and used the method of joints to solve for all internal forces.
+For my truss design, I decided to use a simple planar truss that could withstand two 25kN loads downward at joints C and D. I still used the dimensions of a=0.4m and b=0.3m. I created the geometry of the truss using 7 members and calculated the members lengths horizontally and vertically. I drew my free body diagram, found my reactions, and then used the method of joints to solve for all internal forces.
 
 <img width="4284" height="5712" alt="IMG_5211" src="https://github.com/user-attachments/assets/0536118e-0dbd-49a8-a5ac-aa0f16aea9ad" />
 <img width="4284" height="5712" alt="IMG_5212" src="https://github.com/user-attachments/assets/6de0b7e2-c1ec-45fd-9c45-3d943bd0a7ca" />
