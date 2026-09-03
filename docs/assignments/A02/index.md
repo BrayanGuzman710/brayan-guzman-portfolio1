@@ -69,7 +69,7 @@ I designed connecting pins to prevent the joints from falling using my largest s
 
 **Use Solidworks to design the truss**
 
-This is my SolidWorks Assembly and Parts:  
+ SolidWorks Assembly and Parts: Is on a different folder under A02
 
 I created 7 members using different box extrude features to make my truss. I first did it without pins to keep it as a single component. I after created the pin as a separate part and finally used the assembly on SolidWorks for my complete truss. Here are my pictures of me working through it from start to finish. 
 
