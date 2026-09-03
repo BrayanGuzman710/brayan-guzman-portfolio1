@@ -88,4 +88,20 @@ I checked my assembly to make sure it met the requirements. The FS, Weight, and 
 I learned that SolidWorks is a very powerful tool that can imitate a real design and give you accurate values. I was very surprised with my calculations. I also learned how to use SolidWorks better for the future this was where I spent most of my time on this assignment because I was not very good at navigating through it. Using SolidWorks also taught me that the cross section must be preserved around the holes because removing material would give me weak sections. 
 
 
+**MEGR 2157 Students Only**
+
+ASTM 500 Structural steel is considered a ductile material because it normally undergoes noticeable yielding and deformation before fracture. Grade C with a minimum yield strength of approximately 345 MPa, although I used the 315 MPa yield strength from my original member-sizing calculation to remain consistent with my project calculations. The FHWA explains that tension members and the connections should be checked for gross-section yielding and net-section fracture. Compression members require  stability checks because buckling can occur before the material reaches its full tensile or compressive strength. 
+
+https://www.aisc.org/aisc/solutions-center/hss
+
+<img width="4284" height="5712" alt="IMG_5223" src="https://github.com/user-attachments/assets/459aa089-21be-4937-98d5-9d4cd7969599" />
+
+No yielding or buckling should be in my load. But they are very important things because they stabilize my truss and can carrry force if it becomes uneven. If it were to become compressed, I think buckling would be the main concern. 
+
+The largest member stress was 56.8 MPa in BD and CD which is still well under the 90 MPa. Tensile yielding is the expected failure for BD, CA, and DC. Buckling is expected for members BE and EA. The fracture is not very likely. 
+
+<img width="4284" height="5712" alt="IMG_5225" src="https://github.com/user-attachments/assets/5861f881-9ce0-475d-952a-95d6dccb8a39" />
+
+In my truss each connection was designed for single shear, the expected pin failure is direct shear yielding across one pin cross section. If loading continued after shear yielding, the pin could eventually fracture across the shear plane. This modification would reduce the average shear stress by half. Other improvements could be things like increasing the pin diameter or increasing the material thickness around the hole.
+
 
