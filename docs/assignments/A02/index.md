@@ -83,7 +83,9 @@ I checked my assembly to make sure it met the requirements. The FS, Weight, and 
 <img width="1852" height="1007" alt="Screenshot 2026-09-03 003552" src="https://github.com/user-attachments/assets/c0d0644a-7c6a-4840-adde-43de53ec67db" />
 <img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/05b04dea-bc56-434b-9fc8-d8f58c0abb64" />
 
+**Lesson Learned**
 
+I learned that SolidWorks is a very powerful tool that can imitate a real design and give you accurate values. I was very surprised with my calculations. I also learned how to use SolidWorks better for the future this was where I spent most of my time on this assignment because I was not very good at navigating through it. Using SolidWorks also taught me that the cross section must be preserved around the holes because removing material would give me weak sections. 
 
 
 
