@@ -104,4 +104,4 @@ The largest member stress was 56.8 MPa in BD and CD which is still well under th
 
 In my truss each connection was designed for single shear, the expected pin failure is direct shear yielding across one pin cross section. If loading continued after shear yielding, the pin could eventually fracture across the shear plane. This modification would reduce the average shear stress by half. Other improvements could be things like increasing the pin diameter or increasing the material thickness around the hole.
 
-
+I spent about 8 hours on this assignment. 
