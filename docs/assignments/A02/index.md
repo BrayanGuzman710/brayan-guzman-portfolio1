@@ -64,8 +64,25 @@ I designed connecting pins to prevent the joints from falling using my largest s
 <img width="4280" height="3106" alt="image" src="https://github.com/user-attachments/assets/48e20c30-061e-4b3b-a766-328c97b6c211" />
 
 <img width="3129" height="4691" alt="IMG_5216" src="https://github.com/user-attachments/assets/46aa35eb-0c10-4a3d-9421-60087360520c" />
+<img width="2048" height="1486" alt="image" src="https://github.com/user-attachments/assets/294d86f8-d469-4c83-a3fd-0e2b7b5c7e5e" />
+
 
 **Use Solidworks to design the truss**
+
+I created 7 members using different box extrude features to make my truss. I first did it without pins to keep it as a single component. I after created the pin as a separate part and finally used the assembly on SolidWorks for my complete truss. Here are my pictures of me working through it from start to finish. 
+
+<img width="1055" height="415" alt="Screenshot 2026-09-03 005254" src="https://github.com/user-attachments/assets/730a7f90-846c-4836-8ade-6f534364da6d" />
+<img width="1152" height="502" alt="Screenshot 2026-09-03 005228" src="https://github.com/user-attachments/assets/7c64c55b-25f2-4b17-8157-d83cdcdb0342" />
+<img width="1105" height="433" alt="Screenshot 2026-09-03 005211" src="https://github.com/user-attachments/assets/049ee606-dd58-4732-a9d0-a300623f4e2c" />
+<img width="1416" height="642" alt="Screenshot 2026-09-03 005150" src="https://github.com/user-attachments/assets/0dcb713d-ebdb-4fa1-993c-16d84935b390" />
+<img width="1852" height="1007" alt="Screenshot 2026-09-03 003552" src="https://github.com/user-attachments/assets/ff06390f-4574-4e2b-8fc2-468e92c8131a" />
+<img width="1132" height="590" alt="Screenshot 2026-09-03 002822" src="https://github.com/user-attachments/assets/8568b635-9534-4f03-9622-8eccf7ee8006" />
+
+I checked my assembly to make sure it met the requirements. The FS, Weight, and Structural Stability. I also used the mass properties tab on SolidWorks to simulate the calculations of my truss. I was very suprised because they were very close to my hand calculations. It was about 1.5% off. I am guessing that this was because I didn't account for the overlapping members and all my holes. 
+
+<img width="1852" height="1007" alt="Screenshot 2026-09-03 003552" src="https://github.com/user-attachments/assets/c0d0644a-7c6a-4840-adde-43de53ec67db" />
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/05b04dea-bc56-434b-9fc8-d8f58c0abb64" />
+
 
 
 
