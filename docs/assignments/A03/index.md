@@ -99,3 +99,5 @@ The biggest thing I learned from this assignment was how parametric modeling can
 
 
 To test the parametric model. I changed one parameter at a time and put it back before changing the next. Before making the changes I also predicted whether the length would increase or decrease. 
+
+This assignment took me about 5 hours. 
