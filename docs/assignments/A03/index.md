@@ -2,6 +2,10 @@ A3: Parametric and FEA
 
 # A3 – Parametric Design and FEA
 
+**SolidWorks Part**
+
+[Download my SolidWorks Part](<Parametric and FEA.SLDPRT>)
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
