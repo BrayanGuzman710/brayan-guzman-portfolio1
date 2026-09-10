@@ -1,13 +1,2 @@
-# A3 – [Topic]
-
-## Objective
-
-
-## Analyze
-
-
-## Decide
-
-
-## Communicate
+A3: Parametric and FEA
 
