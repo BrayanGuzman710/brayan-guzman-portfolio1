@@ -154,7 +154,7 @@ The project took approximately 6 hours. I mostly took the most time in SolidWork
 
 ### Resources
 
-* [Motor specifications]  (https://www.omc-stepperonline.com/brushed-24v-dc-gear-motor-3-6kg-cm-46rpm-w-99-5-1-planetary-gearbox-pa28-28245800-g100)
+* Motor specifications (https://www.omc-stepperonline.com/brushed-24v-dc-gear-motor-3-6kg-cm-46rpm-w-99-5-1-planetary-gearbox-pa28-28245800-g100)
 * SolidWorks- Used to design and model my motor mount. Also used to create an engineering print or design. 
 * MEGR 2156 lecture notes — beam-bending stress and deflection equations
 
