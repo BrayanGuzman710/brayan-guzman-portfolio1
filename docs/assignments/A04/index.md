@@ -150,13 +150,8 @@ I had a problem occur when I attempted to extrude the first gusset. SolidWorks p
 The project took approximately 6 hours. I mostly took the most time in SolidWorks fighting errors and sometimes going the wrong way in my project. I went from the beginning of the calculations through completion of the CAD model and engineering drawing.
 
 
-## Files and Resources
+##  Resources
 
-### Downloadable Files
-
-- [Download the SolidWorks Part](../files/motor-mount/Motor_Mount.SLDPRT)
-- [Download the SolidWorks Drawing](../files/motor-mount/Motor_Mount_Drawing.SLDDRW)
-- [View the Engineering Drawing PDF](../files/motor-mount/Motor_Mount_Drawing.pdf)
 ### Resources
 
 * [Motor specifications]  (https://www.omc-stepperonline.com/brushed-24v-dc-gear-motor-3-6kg-cm-46rpm-w-99-5-1-planetary-gearbox-pa28-28245800-g100)
