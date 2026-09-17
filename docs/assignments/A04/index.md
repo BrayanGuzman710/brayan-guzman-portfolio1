@@ -150,10 +150,9 @@ The project took approximately 6 hours. I mostly took the most time in SolidWork
 
 ### Downloadable Files
 
-* [Download the SolidWorks part](files/motor-mount/Motor_Mount.SLDPRT)
-* [Download the SolidWorks drawing](files/motor-mount/Motor_Mount_Drawing.SLDDRW)
-* [Download the engineering drawing PDF](files/motor-mount/Motor_Mount_Drawing.pdf)
-
+- [Download the SolidWorks Part](files/motor-mount/Motor_Mount.SLDPRT)
+- [Download the SolidWorks Drawing](files/motor-mount/Motor_Mount_Drawing.SLDDRW)
+- [View the Engineering Drawing PDF](files/motor-mount/Motor_Mount_Drawing.pdf)
 ### Resources
 
 * [Motor specifications]  (https://www.omc-stepperonline.com/brushed-24v-dc-gear-motor-3-6kg-cm-46rpm-w-99-5-1-planetary-gearbox-pa28-28245800-g100)
