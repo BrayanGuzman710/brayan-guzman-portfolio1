@@ -1,7 +1,11 @@
 Motor Mount
 
 Downloads for SolidWorks Parts and Drawings:
+### Downloadable Files
 
+- [Download the SolidWorks Part](Motor%20Mount.SLDPRT)
+- [Download the SolidWorks Drawing](Motor%20Mount%20Drawing.SLDDRW)
+- [View the Engineering Drawing PDF](Motor%20Mount%20Drawing.pdf)
 
 
 # Motor Mount Design
