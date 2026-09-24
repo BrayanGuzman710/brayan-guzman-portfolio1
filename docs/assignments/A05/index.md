@@ -85,16 +85,13 @@ I selected a plate width of **1.50 in**, thickness of **0.25 in**, and hole-cent
 
 The estimated deflection is below the **0.005-inch limit**. For rounded ends with a radius of 0.75 in, the proposed overall link length is approximately **3.50 in**.
 
-I selected an **RC2 sliding fit** where the link connects to feature A and an **FN1 light drive fit** where it connects to the 1-inch shaft. *Machinery’s Handbook*
-
-
 **Reference:** *Machinery’s Handbook*, 31st ed., “ANSI/ASME Standard Limits and Fits,” pp. 650–660: [fit descriptions](https://online.flippingbook.com/view/954192180/714/), [running and sliding fit table](https://online.flippingbook.com/view/954192180/718-719/), and [force-fit table](https://online.flippingbook.com/view/954192180/728-729/).
 
 
 
 ## Lessons learned and Resources
 
-I learned that a dimensioned sketch can still put a feature in the wrong location. My lower stem was 0.90 in wide but was aligned to the center mark by its left edge. I corrected its position before extruding. I also checked the round arm’s extrusion direction in the front view to make sure it extended left from the stem. In the Multiview drawing, I changed the displayed diameter precision so the Ø0.875 in design value was clear.
+I learned that a dimensioned sketch can still put a feature in the wrong location. My lower stem was 0.90 in wide but was aligned to the center mark by its left edge. I corrected its position before extruding. I also checked the round arm’s extrusion direction in the front view to make sure it extended left from the stem. In the Multiview drawing, I changed the displayed diameter precision so the Ø0.875 in design value was clear. This assignment took me 7 hours to complete.
 
 Resources:
 SolidWorks- used to design part and create print of part
