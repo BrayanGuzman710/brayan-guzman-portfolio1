@@ -2,6 +2,8 @@
 
 SolidWorks Part and Drawing:
 
+- [Download the SolidWorks bracket part (.SLDPRT)](A5%20Bracket%20Design.SLDPRT)
+- [Download the SolidWorks drawing (.SLDDRW)](A5%20Bracket%20Design%20Drawing.SLDDRW)
 
 
 
