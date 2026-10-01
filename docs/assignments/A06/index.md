@@ -62,6 +62,8 @@ Horizontal opening between the lip tips 1.550
 Vertical clearance beneath the lips 1.550
 
 ## 2157 Link and Drawing
+<img width="862" height="641" alt="Screenshot 2026-10-01 015034" src="https://github.com/user-attachments/assets/161edfdb-0fd7-49e1-b1a9-f3456cf78e97" />
+
 I selected a link width of 1.50 in, a hole-center spacing of 2.00 in, and a thickness of 0.25 in. These dimensions define the link body and the locations of its two connections.
 <img width="4284" height="5712" alt="IMG_5506 (1)" src="https://github.com/user-attachments/assets/b98f2c5c-e10c-4ad5-8e13-186976d8a88b" />
 I linked the bracket using these formulas
