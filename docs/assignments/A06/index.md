@@ -11,8 +11,17 @@ Have a Lessons Learned section
 
 ## Download Files
 
-- [Download the parametric SolidWorks part](https://raw.githubusercontent.com/BrayanGuzman710/brayan-guzman-portfolio1/main/docs/assignments/A06/A5%20Bracket%20Design.SLDPRT)
-- [Download the SolidWorks drawing](https://raw.githubusercontent.com/BrayanGuzman710/brayan-guzman-portfolio1/main/docs/assignments/A06/A6%20Bracket%20Design%20Drawing.SLDDRW)
-- [View or download the drawing PDF](https://raw.githubusercontent.com/BrayanGuzman710/brayan-guzman-portfolio1/main/docs/assignments/A06/A6%20Bracket%20Design%20Drawing.pdf)
+## Bracket Files
 
-- 
+- [View Bracket Drawing PDF](https://github.com/BrayanGuzman710/brayan-guzman-portfolio1/blob/main/docs/assignments/A06/A6%20Bracket%20Design%20Drawing.pdf)
+- [Download Bracket Drawing PDF](https://github.com/BrayanGuzman710/brayan-guzman-portfolio1/raw/refs/heads/main/docs/assignments/A06/A6%20Bracket%20Design%20Drawing.pdf)
+- [Download Bracket SolidWorks Part](https://github.com/BrayanGuzman710/brayan-guzman-portfolio1/raw/refs/heads/main/docs/assignments/A06/A5%20Bracket%20Design.SLDPRT)
+- [Download Bracket SolidWorks Drawing](https://github.com/BrayanGuzman710/brayan-guzman-portfolio1/raw/refs/heads/main/docs/assignments/A06/A6%20Bracket%20Design%20Drawing.SLDDRW)
+
+## Link Files
+
+- [View Link Drawing PDF](https://github.com/BrayanGuzman710/brayan-guzman-portfolio1/blob/main/docs/assignments/A06/A6%20Link%20Design.pdf)
+- [Download Link Drawing PDF](https://github.com/BrayanGuzman710/brayan-guzman-portfolio1/raw/refs/heads/main/docs/assignments/A06/A6%20Link%20Design.pdf)
+- [Download Link SolidWorks Part](https://github.com/BrayanGuzman710/brayan-guzman-portfolio1/raw/refs/heads/main/docs/assignments/A06/A6%20Link%20Design.SLDPRT)
+- [Download Link SolidWorks Drawing](https://github.com/BrayanGuzman710/brayan-guzman-portfolio1/raw/refs/heads/main/docs/assignments/A06/A6%20Link%20Design.SLDDRW)
+ 
