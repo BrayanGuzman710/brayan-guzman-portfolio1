@@ -57,5 +57,39 @@ For my mesh I used a solid mesh with the blended curvature-based mesher. The mes
 
 ## Bracket Results and Design Optimization
 
+I used three different bracket designs to evaluate them using the same loading and material. 
+
 <img width="682" height="746" alt="image" src="https://github.com/user-attachments/assets/c61a4d3b-73ed-40e5-bb10-6a3e8835fbb7" />
+
+MY first change added material to the arms to increase stiffness. The second change increased the hook depth to match the arms and removed the depth step between these features.
+
+# Inner Loop
+
+<img width="682" height="736" alt="image" src="https://github.com/user-attachments/assets/409a640e-b695-4bde-be19-db335a08bf35" />
+
+<img width="677" height="737" alt="image" src="https://github.com/user-attachments/assets/c26ddae6-2016-4871-a772-f36934d86407" />
+
+<img width="685" height="776" alt="image" src="https://github.com/user-attachments/assets/8fba62c8-f361-4206-af2e-b75dbadf555a" />
+
+<img width="678" height="782" alt="Screenshot 2026-10-21 184852" src="https://github.com/user-attachments/assets/b77f2c7b-a82c-4382-be33-2eee2c0b6c30" />
+
+<img width="677" height="737" alt="image" src="https://github.com/user-attachments/assets/c8c0bad5-da71-4b79-9689-7e6b2227e399" />
+
+<img width="687" height="712" alt="image" src="https://github.com/user-attachments/assets/a62e8ed5-5e03-4cf2-b02c-655aa6929ce3" />
+
+<img width="681" height="717" alt="image" src="https://github.com/user-attachments/assets/4a5ebd80-9ecc-4ee1-8d95-17938faa36be" />
+
+<img width="682" height="757" alt="image" src="https://github.com/user-attachments/assets/4d3eafa8-6723-4620-8f07-09148dd2fbb5" />
+
+<img width="677" height="747" alt="image" src="https://github.com/user-attachments/assets/a9df996c-8dcf-47aa-b2ae-445dd7197e0b" />
+
+
+
+
+# Max Stress and Displacement locations
+
+
+
+
+
 
