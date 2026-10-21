@@ -88,6 +88,40 @@ MY first change added material to the arms to increase stiffness. The second cha
 
 # Max Stress and Displacement locations
 
+For all three bracket designs:
+
+- The maximum stress occurred at an inside hook corner near a fixed support.
+
+  <img width="761" height="572" alt="image" src="https://github.com/user-attachments/assets/6045e6f5-c2d7-45ea-a1df-ca00c1ee6ff2" />
+
+
+- The maximum displacement occurred near the bottom edge of the loaded cylindrical bar.
+
+<img width="657" height="545" alt="image" src="https://github.com/user-attachments/assets/04906619-9582-4d5b-8e35-8a2210d24286" />
+
+
+- The minimum safety factor occurred in the maximum-stress region near the hook support.
+
+<img width="871" height="546" alt="image" src="https://github.com/user-attachments/assets/6937cb20-2fb0-4370-b1b3-fee7044468d6" />
+
+
+# Mesh Convergence
+
+
+
+I stopped after the third mesh attempt for each bracket design, because the assignment said to only have 3 runs. Although the displacement changes met the 7% value, the peak stresses continued becoming bigger as the mesh became finer. That's why I did not consider the bracket’s peak stress or safety factor converged. The increasing stresses were concentrated near sharp inside corners beside the fixed supports. This suggests a possible stress singularity associated with the geometry or boundary conditions. 
+
+# Outer Loop Comparison
+
+Using the finest mesh for each design, increasing the arm depth reduced the predicted maximum displacement from 7.551 to 4.056 mm. Increasing the hook depth reduced it further to 3.073 mm. Bracket 3 had approximately 59.3% less predicted displacement than Bracket 1, while its rounded mass increased from 0.52 to 0.55 lb. Bracket 3 was the stiffest version tested. But none of my bracket designs met the safety-factor target of 4 or the displacement goal of 0.005 in. The displayed peak stresses also exceeded the material’s yield strength. I therefore treated these linear static results as evidence that the design and model required further investigation, rather than as an accurate prediction of deformation after yielding. Going in deeper into the work would be reviewing the support representation and investigating the stress hot spots. 
+
+## Link Results and Optimization
+
+
+
+
+
+# Inner Loop Results
 
 
 
