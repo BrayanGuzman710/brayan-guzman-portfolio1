@@ -51,7 +51,11 @@ I fixed the cylindrical surface inside the upper hole. I applied a 1,200 lbf dow
 
 # Mesh settings
 
-For my mesh I used a solid mesh with the blended curvature-based mesher. The mesh used 16 Jacobian checking points, a minimum of eight elements around a circle, and an element growth ratio of 1.4.
+For my mesh I used a solid mesh with the blended curvature-based mesher. The mesh used 16 Jacobian checking points, a minimum of eight elements around a circle, and an element growth ratio of 1.4. All of the meshes had zero distorted elements. 
 
+<img width="682" height="446" alt="image" src="https://github.com/user-attachments/assets/8dad6d1e-43f9-49ef-a906-2056ad1b23c0" />
 
+## Bracket Results and Design Optimization
+
+<img width="682" height="746" alt="image" src="https://github.com/user-attachments/assets/c61a4d3b-73ed-40e5-bb10-6a3e8835fbb7" />
 
