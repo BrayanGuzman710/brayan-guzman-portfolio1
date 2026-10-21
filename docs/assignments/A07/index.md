@@ -1,13 +1,57 @@
-# A7 – [Topic]
+# A7 FEA on Bracket
 
-## Objective
+Objectives:
+Use Finite Element Analysis (FEA) to improve the bracket design from previous assignments.
+Ensure high stiffness, strength, and lightweight optimization through iterative design.
+Conduct multiple FEA simulations, refining geometry based on results.
+Perform static stress analysis, including constraints, loading, and meshing selection.
+Interpret data by identifying max stress, displacement, and safety factors.
+Optimize the design by modifying geometry to enhance performance.
+Document the entire process with images, calculations, and insights.
+Reflect on key engineering lessons learned and time spent.
 
 
-## Analyze
+SolidWorks Links:
 
 
-## Decide
+## Table of Contents
+
+- [FEA Setup](#fea-setup)
+- [Bracket Results and Design Optimization](#bracket-results-and-design-optimization)
+- [Link Results and Design Optimization — MEGR 2157](#link-results-and-design-optimization-megr-2157)
+- [Lessons Learned and Time Spent](#lessons-learned-and-time-spent)
+
+- ## FEA Setup
+
+For my FEA setup I used SOLIDWORKS Simulation to perform static stress analyses on my bracket and link. I used the assigned 6061-T6 aluminum material for every design. Its yield strength in the material library was 275 MPa.
+
+<img width="942" height="728" alt="Screenshot 2026-10-20 224250" src="https://github.com/user-attachments/assets/d7d2ae5c-7919-4da3-a9db-336b63c2f940" />
+
+The workflow for the assignment included two loops I used:
+
+Inner loop validation: I kept the geometry, material, fixtures, and loading unchanged while refining the mesh. I compared the safety factor, maximum von Mises stress, and maximum resultant displacement between successive meshes.
+Outer loop design optimization: After completing the mesh comparison, I changed the geometry to improve the design and repeated the analysis.
+I calculated the percentage change using the newer, finer-mesh result as the reference:
+
+Percentage change = finer result − previous result ÷ finer result times (100)
+
+I stopped refining when the results changed by less than 7%, or after the third mesh attempt, as the assignment said
+
+# Bracket Results and loading
+
+I fixed the two inside horizontal support ledges of the bracket hooks. I applied a total force of 1,200 lbf to the cylindrical bar surface in the horizontal loading direction. This represented the combined loading of two assumed 600 lbf strap forces. I also retained the same fixtures and force for all three bracket designs so that way I could compare the effect of geometry changes.
+
+<img width="1908" height="832" alt="Screenshot 2026-10-18 223408" src="https://github.com/user-attachments/assets/041c3423-d061-4ab0-a06f-c1efa16add13" />
+
+# Link constraints and loading
+
+I fixed the cylindrical surface inside the upper hole. I applied a 1,200 lbf downward force to the cylindrical surface inside the lower hole, parallel to the line joining the hole centers. This setup represented a simplified tensile loading case. Fixing the entire upper-hole surface and distributing the load over the lower-hole surface simplified the pin connections. 
+
+<img width="1177" height="777" alt="Screenshot 2026-10-20 231850" src="https://github.com/user-attachments/assets/863a2c3a-fe72-42ca-a6f2-fbe01f572e2b" />
+
+# Mesh settings
+
+For my mesh I used a solid mesh with the blended curvature-based mesher. The mesh used 16 Jacobian checking points, a minimum of eight elements around a circle, and an element growth ratio of 1.4.
 
 
-## Communicate
 
