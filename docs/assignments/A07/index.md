@@ -174,3 +174,9 @@ I selected Link 3 as the preferred version among the three tested designs becaus
 I learned that completing a simulation does not automatically establish that its results are independent of mesh size. In the bracket studies, the maximum displacement changed by less than 7% between the last two meshes, while maximum stress continued increasing a lot. I needed to evaluate convergence separately for each result. I also learned that adding material changes both structural response and mass. Increasing the bracket arm and hook depths reduced predicted displacement but increased mass. For the link, increasing thickness allowed the modeled safety factor to exceed 4. I then reduced the thickness slightly to save material while retaining the target safety factor.
 
 I spent around 9 hours to complete this assignment what took me the most was processing and inputting the information. 
+
+# Resources 
+
+SolidWorks- Creating Model and Simulation
+Gifthub- Uploading all info into webpage
+
