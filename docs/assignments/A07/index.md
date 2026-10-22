@@ -13,6 +13,19 @@ Reflect on key engineering lessons learned and time spent.
 
 SolidWorks Links:
 
+### Bracket Designs
+
+- [Download Bracket Design 1](https://github.com/BrayanGuzman710/brayan-guzman-portfolio1/raw/refs/heads/main/docs/assignments/A07/A5%20Bracket%20Design.SLDPRT)
+- [Download Bracket Design 2](https://github.com/BrayanGuzman710/brayan-guzman-portfolio1/raw/refs/heads/main/docs/assignments/A07/A5%20Bracket%20Design%202.SLDPRT)
+- [Download Bracket Design 3](https://github.com/BrayanGuzman710/brayan-guzman-portfolio1/raw/refs/heads/main/docs/assignments/A07/A5%20Bracket%20Design%203.SLDPRT)
+
+- 
+### Link Designs — MEGR 2157
+
+- [Download Link Design 1](https://github.com/BrayanGuzman710/brayan-guzman-portfolio1/raw/refs/heads/main/docs/assignments/A07/A6%20Link%20Design%20%281%29%20FEA.SLDPRT)
+- [Download Link Design 2](https://github.com/BrayanGuzman710/brayan-guzman-portfolio1/raw/refs/heads/main/docs/assignments/A07/A6%20Link%20Design%20%282%29%20FEA.SLDPRT)
+- [Download Link Design 3](https://github.com/BrayanGuzman710/brayan-guzman-portfolio1/raw/refs/heads/main/docs/assignments/A07/A6%20Link%20Design%20%283%29%20FEA.SLDPRT)
+
 
 ## Table of Contents
 
