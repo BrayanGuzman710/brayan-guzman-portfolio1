@@ -1,7 +1,31 @@
 # A8 – Gear Box Design
-All Downloadables
 
+All Downloadables:
+#### Assembly
 
+[Gearbox Assembly](<Assem1 Gear Box.SLDASM>)
+
+#### Custom Parts
+
+[Input Shaft](<Input Shaft.SLDPRT>)
+[Output Shaft](<Output Shaft.SLDPRT>)
+[Housing Base](<Part5.SLDPRT>)
+[Housing Cover](<Part8.SLDPRT>)
+
+#### Gears
+
+[18-Tooth Input Pinion](<7880K19_Metal Gear - 20 Degree Pressure Angle.SLDPRT>)
+[48-Tooth Output Gear](<7880K24_Metal Gear - 20 Degree Pressure Angle.SLDPRT>)
+
+#### Bearings
+
+[Small Sleeve Bearing](<6391K753_Oil-Embedded 841 Bronze Sleeve Bearing.SLDPRT>)
+[Large Sleeve Bearing](<6391K131_Oil-Embedded 841 Bronze Sleeve Bearing.SLDPRT>)
+
+#### Fasteners
+
+[Socket Head Screw](<91251A078_Black-Oxide Alloy Steel Socket Head Screw.SLDPRT>)
+[Hex Nut](<90480A005_Zinc-Plated Low-Strength Steel Hex Nuts.SLDPRT>)
 
 
 
