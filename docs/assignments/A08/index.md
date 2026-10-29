@@ -77,6 +77,12 @@ I selected gears with matching pitch and pressure angle so their tooth geometry 
 
 The oil-embedded 841 bronze sleeve bearings support the two shaft sizes. Each bearing is 0.250 in long, with one bearing at each end of each shaft.
 
+
+Gears: Matching pitch and pressure angle provide compatible tooth geometry. The 48-tooth gear and 18-tooth pinion provide the required 2.6667 reduction ratio.
+Bearings: Two sleeve bearings support each shaft, with one installed in the base and one in the cover.
+Fasteners: Four screws and matching nuts secure the housing while allowing disassembly.
+Custom parts: I modeled the shafts and housing around the selected component sizes and the calculated 0.6875 in shaft center distance.
+
 <img width="750" height="807" alt="image" src="https://github.com/user-attachments/assets/3f0365a9-05dd-4d07-8120-68f664c9d837" />
 
 <img width="775" height="805" alt="image" src="https://github.com/user-attachments/assets/c4203a1a-2c0a-486d-b8b2-ee6ee41693eb" />
@@ -91,6 +97,113 @@ Bearing reactions depend on the position of the gear load relative to the two su
 <img width="661" height="572" alt="image" src="https://github.com/user-attachments/assets/381dda80-5e10-4467-9be1-9e0117d49e2b" />
 
 
+### Parametric Modeling
 
-<img width="750" height="807" alt="image" src="https://github.com/user-attachments/assets/3f0365a9-05dd-4d07-8120-68f664c9d837" />
+I created the shafts using dimensioned circular sketches and extruded features. The shaft diameters and lengths control their geometry and provide the dimensions used in the drawings.
+
+I modeled the housing base around the shaft spacing and purchased components. The base contains a recessed gear cavity, two bearing bores, and four corner supports for the fasteners. The cover matches the base outline and includes corresponding bearing and fastener holes.
+
+### Custom Components
+
+Input shaft 
+<img width="1040" height="562" alt="Screenshot 2026-10-29 003417" src="https://github.com/user-attachments/assets/a654d2e3-33ac-475e-84a6-766729983558" />
+<img width="995" height="393" alt="Screenshot 2026-10-29 003438" src="https://github.com/user-attachments/assets/3e7dc7f1-eaa4-426c-a46d-e762f53734b2" />
+<img width="910" height="616" alt="Screenshot 2026-10-29 003523" src="https://github.com/user-attachments/assets/a10dcf69-fdb9-4586-a4ba-14280d5b15b0" />
+
+Output shaft 
+<img width="962" height="622" alt="Screenshot 2026-10-29 003541" src="https://github.com/user-attachments/assets/4a498c24-01f5-443b-9a70-f352faa6ab1a" />
+<img width="1152" height="465" alt="Screenshot 2026-10-29 003555" src="https://github.com/user-attachments/assets/ae96da66-5cd6-4fe8-a665-1059b8ee1fce" />
+
+Housing base
+<img width="883" height="612" alt="Screenshot 2026-10-29 010227" src="https://github.com/user-attachments/assets/bc087b71-7b53-4b32-b8a9-7834aa1de831" />
+<img width="863" height="492" alt="Screenshot 2026-10-29 010248" src="https://github.com/user-attachments/assets/d9fef832-b1cf-404c-8cea-23348e8b6e5d" />
+<img width="767" height="487" alt="Screenshot 2026-10-29 010255" src="https://github.com/user-attachments/assets/15d043b8-5e6a-4614-a76f-824099b376ae" />
+<img width="646" height="460" alt="Screenshot 2026-10-29 010301" src="https://github.com/user-attachments/assets/b2b15968-448c-4510-ac3d-860a3068913b" />
+<img width="641" height="582" alt="Screenshot 2026-10-29 010308" src="https://github.com/user-attachments/assets/881952b4-8146-4ee5-82eb-2ede66fb39b7" />
+<img width="626" height="552" alt="Screenshot 2026-10-29 010313" src="https://github.com/user-attachments/assets/98a12944-3c0e-42d6-8e17-788524f270c2" />
+
+
+Housing cover 
+
+<img width="1042" height="657" alt="Screenshot 2026-10-29 010541" src="https://github.com/user-attachments/assets/c6f59010-3f80-4a53-b32f-81e0f951431a" />
+<img width="1187" height="707" alt="Screenshot 2026-10-29 010551" src="https://github.com/user-attachments/assets/ce8becbd-aaf5-49b9-a7fe-e775e0064976" />
+<img width="1027" height="666" alt="Screenshot 2026-10-29 010602" src="https://github.com/user-attachments/assets/855bce10-b9a0-41fb-ae52-8c1c8708ac27" />
+
+
+### Assembly
+
+I imported the purchased component models into SolidWorks and assembled them with the custom parts.
+
+Concentric mates aligned the gears, shafts, bearings, and fasteners. Coincident and distance mates established their axial positions. I used the calculated center distance to position the shaft axes and aligned the gear tooth faces.
+
+After positioning the internal components, I installed the cover and added the four screws and nuts. The assembly model shows the relationship between the internal components and the two housing pieces.
+
+
+## Tolerances and Drawings
+
+### Fit Intentions
+
+Different interfaces serve different functions in the gearbox. The gears are intended to remain secured to their shafts, the bearing outside diameters are intended to remain secured within the housing, and the shafts are intended to rotate inside the bearings.
+
+The shaft drawings use selected diameter deviations of +0.0002 to +0.0004 in:
+
+| Shaft | Selected Diameter Limits |
+
+| Input shaft | 0.1252–0.1254 in |
+| Output shaft | 0.2502–0.2504 in |
+
+### Drawing Tolerances
+
+I used inch dimensions and the following general tolerance block:
+
+| Decimal Format | General Tolerance |
+
+| X.X | ±0.02 in |
+| X.XX | ±0.01 in |
+| X.XXX | ±0.005 in |
+
+I created six individual part drawings:
+
+1. Input shaft.
+2. Output shaft.
+3. Housing base.
+4. Housing cover.
+5. Small sleeve bearing.
+6. Large sleeve bearing.
+
+I also created an assembly drawing with orthographic views, an isometric view, and a bill of materials.
+
+The part drawings communicate overall dimensions, hole sizes, feature locations, and selected tolerances. Center marks and centerlines identify hole centers and cylindrical axes. The isometric views help show the shape of each component.
+
+The assembly drawing communicates how the components fit together, and the bill of materials identifies the parts and quantities.
+
+## Results and Lessons Learned
+
+The CAD assembly combines the selected gears, shafts, sleeve bearings, housing pieces, and fasteners. The 48-tooth output gear and 18-tooth input pinion produce the required 2.6667 reduction ratio.
+
+The two-piece housing provides access to the gears through a removable cover. Purchased component models helped me establish the layout and concentrate my custom modeling on the housing and shafts.
+
+One important lesson was the difference between assembly constraints and physical fits. A concentric mate aligns components in SolidWorks, while tolerances describe the dimensional variation allowed in manufactured parts.
+
+I also learned that calculations must follow the actual geometry. Gear pitch diameters determine shaft spacing, and the axial location of the gear force affects bearing reactions.
+
+Preparing the drawings helped me organize the information needed to communicate the design. Overall dimensions describe the part envelope, location dimensions establish feature positions, and individual tolerances communicate critical size limits.
+
+### Time Spent 
+
+I spent approximately 10 hours on component research, calculations, modeling, assembly, and drawings.
+
+I used McMaster-Carr product information and CAD models for the purchased components. 
+I used SolidWorks -used to design gear box and assemble
+
+### Resources
+
+- [18-tooth pinion — McMaster-Carr 7880K19](https://www.mcmaster.com/7880K19/)
+- [48-tooth gear — McMaster-Carr 7880K24](https://www.mcmaster.com/7880K24/)
+- [Small bearing — McMaster-Carr 6391K753](https://www.mcmaster.com/6391K753/)
+- [Large bearing — McMaster-Carr 6391K131](https://www.mcmaster.com/6391K131/)
+- [Socket head screw — McMaster-Carr 91251A078](https://www.mcmaster.com/91251A078/)
+- [Hex nut — McMaster-Carr 90480A005](https://www.mcmaster.com/90480A005/)
+
+
 
