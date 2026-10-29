@@ -187,6 +187,9 @@ The shaft drawings use selected diameter deviations of +0.0002 to +0.0004 in:
 | Input shaft | 0.1252–0.1254 in |
 | Output shaft | 0.2502–0.2504 in |
 
+### MEGR 2157
+
+
 ### Drawing Tolerances
 
 I used inch dimensions and the following general tolerance block:
