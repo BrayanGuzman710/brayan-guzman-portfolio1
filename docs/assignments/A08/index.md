@@ -199,6 +199,16 @@ I used inch dimensions and the following general tolerance block:
 
 I created six individual part drawings:
 
+### Engineering Drawings
+
+- [Input Shaft Drawing](<Input Shaft Drawing.SLDDRW>)
+- [Output Shaft Drawing](<Output Shaft Drawing.SLDDRW>)
+- [Housing Base Drawing](<Housing Base Drawing.SLDDRW>)
+- [Housing Cover Drawing](<Cover Drawing.SLDDRW>)
+- [Small Bearing Drawing](<6391K753_Oil-Embedded 841 Bronze Sleeve Bearing Drawing.SLDDRW>)
+- [Large Bearing Drawing](<6391K131_Oil-Embedded 841 Bronze Sleeve Bearing.SLDDRW>)
+- [Gearbox Assembly Drawing](<Assem1 Gear Box Drawing.SLDDRW>)
+
 1. Input shaft.
 2. Output shaft.
 3. Housing base.
