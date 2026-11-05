@@ -154,7 +154,7 @@ This assignment took me about 5 hours.
 
 ## Resources: 
 
-[McMaster-Carr - Proposed Round Belt](https://www.mcmaster.com/9462T58)
+[McMaster-Carr - Proposed Round Belt][Polyurethane Round Belt - 9462T58](https://www.mcmaster.com/9462T58)
 
 [McMaster-Carr - Sleeve Bearings][(https://www.mcmaster.com/products/sleeve-bearings/)](https://www.mcmaster.com/products/bearings/military-specification~ms17795-26/?utm)
 
